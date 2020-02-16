@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=HDA Analyzer
+Comment=GTK3-based tool to analyze HDA codecs, widgets, and connections.
+Icon=hda-analyzer.png
+Exec=hda-analyzer-pkexec
+Terminal=false
+Categories=GTK;GNOME;Utility;
